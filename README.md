@@ -1,4 +1,4 @@
-<h2> Hi, I'm Elsa a.k.a Alice! <img src="" width="50"></h2>
+<h2> Hi, I'm Elsa a.k.a Alice! <img src="https://cdn-icons-png.flaticon.com/512/4557/4557869.png" width="50"></h2>
 <img align='right' src="" width="230">
 <p><em>Software Enginner at Freelancer</a>
 </br>Developer Consultant at Freelancer</a>
