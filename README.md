@@ -1,44 +1,27 @@
-## Hi there 👋
+<h2> Hi, I'm Elsa a.k.a Alice! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
+<p><em>Software Enginner at <a href="">Freelancer</a><img src="" width="30"></br>Developer Consultant at <a href="">ThoughtWorks</a><img src="" width="30"> 
+</em></p>
 
-Elsa is a skilled software engineer and technical writer with expertise in financial technologies, b2b, merchant, campaign, news, point of sales. She has contributed to projects.co.id as a freelancer.
-With over a million views across various reputable publications, including Media Jams(Cloudinary), AppSmith, ImageKit, Aviyel, Hashnode Web3, Alchemy, Infura and Moralis, Idris is a sought-after developer relations engineer. He builds relationships with key stakeholders, including developers, engineers, and product managers, and leads strategic initiatives with influential teams and individuals.
+[![GitHub dragfirepp](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/dragfirepp)
 
-Elsa engages with the developer community through meetups, boot camps, hackathons, lectures, spaces and training. He founded Web3 Afrika (a Developer DAO spin-off), a community that onboards, supports, and educates web3 builders and the Backend Lead at SheCodeAfrica, a coding community with over 40k+ active women.
 
-She is also skilled in aggregating feedback from the developer community, prioritizing feature requests, and aligning internal organizations with developer partners' needs. Idris has given several talks, workshops, and live coding demos, both virtually and onsite, inspiring and educating others as a speaker.
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
-Aside from slapping the keyboard till something magical emerge, he writes a lot of articles Here where he shares his knowledge and sometimes contributes to open source.
+```javascript
+const thai = {
+  pronouns: "she" | "her",
+  code: [Javascript, PHP, HTML, CSS, Golang, Python, Java, Springboot, MySQL, Oracle, PostgreeSQL],
+  tools: [Jira, Zephyr, Figma, Draw.io, Visio, Jest, Docker, Postman, Selenium, Katalon],
+  architecture: ["microservices", "event-driven", "design system pattern"],
+  techCommunities: {
+                        Python: "PythonID",
+                        Quality Assurance: "ISQA"
+                      },
+ challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
+}
+```
 
-👯 I’m looking to collaborate on more open source projects.
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
-💬 Ask me about Web Development, Technical Writing, Web3, Blockchain, PWA, NodeJs, Serverless Technologies, Open Source etc.
-
-📫 How to reach me:
-
-Social Media
-Twitter | LinkedIn | Portfolio | Showwwcase | Timeline | LinkTree
-Technical Writing Profiles:
-Blog | FreeCodeCamp | Section Engineering | Dev.to | Medium | TealFeed | DevDojo | HackMamba | AppSmith
-😄 Pronouns: he/him
-
-⚡ Fun fact: I love chocolate 🥳
-
-My Recent Blogposts ✍️
-My Blog
-How Merkle Proofs Work
-Celebrating One Year Working on Axelar: Building the Interoperability Future
-How to Build a Cross-chain Airdrop Dapp With Solidity, NextJs, and Axelar
-How to Create an Interchain Token with Axelar in 4 Steps
-Solving the TypeError: no matching function Error in Hardhat
-FreeCodeCamp
-How to Build a Paraphrasing Tool with ReactJs & ChatGPT Turbo
-Decentralized Identity – Build a Profile with Next.js, Ethereum & Ceramic Network
-Next.js Image Tutorial – How to Upload, Crop, and Resize Images in the Browser in Next
-How to Build a Full Stack Application With Supabase, React, and Tailwind CSS in Nextjs
-What is Ansible? A Tool to Automate Parts of Your Job
-Dev Community
-Multichain Real-World Asset (RWA) Lending with Axelar GMP
-Cross-Chain Governance with OpenZeppelin Governor and Axelar
-Merkle Proofs: A Simple Guide
-Celebrating One Year Working on Axelar: Building the Interoperability Future
-How to Use Cloud Functions to Automate GitHub Moderation
+---
