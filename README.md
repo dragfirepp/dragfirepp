@@ -1,12 +1,12 @@
 <h2> Hi, I'm Elsa a.k.a Alice! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
-<p><em>Software Enginner at <a href="">Freelancer</a><img src="" width="30"></br>Developer Consultant at <a href="">ThoughtWorks</a><img src="" width="30"> 
+<p><em>Software Enginner at <a href="">Freelancer</a><img src="https://www.f-cdn.com/assets/img/facebook/default-04d56222.jpg" width="30"></br>Developer Consultant at <a href="https://www.f-cdn.com/assets/img/facebook/default-04d56222.jpg">ThoughtWorks</a><img src="" width="30"> 
 </em></p>
 
 [![GitHub dragfirepp](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/dragfirepp)
 
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+### A little more about me...  
 
 ```javascript
 const thai = {
@@ -18,7 +18,7 @@ const thai = {
                         Python: "PythonID",
                         Quality Assurance: "ISQA"
                       },
- challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
+ contact: "dragfirepp@gmail.com"
 }
 ```
 
