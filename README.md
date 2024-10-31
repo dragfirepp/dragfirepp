@@ -1,6 +1,6 @@
 <h2> Hi, I'm Elsa a.k.a Alice! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
-<p><em>Software Enginner at <a href="">Freelancer</a><img src="https://www.f-cdn.com/assets/img/facebook/default-04d56222.jpg" width="30"></br>Developer Consultant at <a href="https://www.f-cdn.com/assets/img/facebook/default-04d56222.jpg">ThoughtWorks</a><img src="" width="30"> 
+<p><em>Software Enginner at <a href="">Freelancer</a><img src="https://www.f-cdn.com/assets/img/facebook/default-04d56222.jpg" width="50"></br>Developer Consultant at <a href="https://www.f-cdn.com/assets/img/facebook/default-04d56222.jpg">Freelancer</a><img src="https://www.f-cdn.com/assets/img/facebook/default-04d56222.jpg" width="50"> 
 </em></p>
 
 [![GitHub dragfirepp](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/dragfirepp)
