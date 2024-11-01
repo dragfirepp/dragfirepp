@@ -1,7 +1,9 @@
 <h2> Hi, I'm Elsa a.k.a Alice! </h2>
 <img align='right' src="https://cdn-icons-png.flaticon.com/512/4557/4557869.png" width="230">
-<p><em>Software Enginner at Freelancer</a>
-</br>Developer Consultant at Freelancer</a>
+<p><em>Freelance Software Engineer</a>
+</br>Freelance QA Engineer</a>
+</br>Freelance UI/UX Designer</a>
+</br>Freelance Technical Writer</a>
 </em></p>
 
 [![GitHub dragfirepp](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/dragfirepp)
